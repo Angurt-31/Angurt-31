@@ -22,6 +22,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
+**Базы данных:**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
 **Инструменты:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,32 +65,18 @@
 
 ## 📫 Контакты
 
-<!-- Замените ссылки на свои актуальные контакты -->
-
-- 🔗 **Telegram:** [@ваш_username](https://t.me/)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 🔗 **Telegram:** [@barkopen](https://t.me/barkopen)
+- 📧 **Email:** [dimmnzz@gmail.com](mailto:dimmnzz@gmail.com)
 
 ---
 
 ## 🏆 Достижения
 
-<!-- Добавьте ссылки на Stepik, Codewars, LeetCode и т.д., когда будете готовы -->
-
-- Stepik: _ссылка на сертификаты_
-- Codewars: _профиль_
-- LeetCode: _профиль_
+- Stepik: [Профиль](https://stepik.org/users/831464783/profile)
+- Codewars: [Профиль](https://www.codewars.com/users/barkopen)
 
 ---
 
 ## 🎓 Образование
 
 **Школа 21** — практико-ориентированное обучение разработке: алгоритмы, низкоуровневые языки, командные проекты и code review.
-
----
-
-## 💻 Почему программирование?
-
-Мне интересно превращать идеи в работающий код: от аккуратной работы с памятью в **C** до выразительного **Kotlin** и системного **C++**. Учусь писать код, который проходит проверки, читается другими и уверенно живёт в репозитории.
-
-> _«Хороший код — это не только корректность, но и ясность намерений для того, кто откроет файл через месяц.»_
-# Angurt-31
