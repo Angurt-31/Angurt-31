@@ -51,6 +51,8 @@
   `C` `Algorithms` `Memory`
 - **[CPP2_s21_containers](https://github.com/Angurt-31/CPP2_s21_containers)** — собственные контейнеры и изучение STL изнутри.
   `C++` `Data Structures` `OOP`
+- **[certificates](https://github.com/Angurt-31/certificates)** — сертификаты и подтверждения пройденных курсов/модулей.
+  `Docs`
 
 
 ---
