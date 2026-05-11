@@ -1,0 +1,91 @@
+# 👋 Привет, я Дмитрий
+
+### Разработка на C/C++/Kotlin | Студент [Школы 21](https://21-school.ru/)
+
+<div align="center">
+
+[![GitHub followers](https://img.shields.io/github/followers/Angurt-31?style=social)](https://github.com/Angurt-31)
+[![GitHub Angurt-31](https://img.shields.io/github/stars/Angurt-31?style=social)](https://github.com/Angurt-31)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Angurt-31&show_icons=true&theme=tokyonight&hide_border=true&locale=ru" alt="Статистика GitHub" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angurt-31&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Топ языков" height="165" />
+
+</div>
+
+---
+
+## 🛠 Технологии и навыки
+
+**Языки:**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+**Инструменты:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Мои проекты
+
+### 🔹 Учебные проекты (Школа 21)
+
+- **[Kotlin_AP1_Kt_01](https://github.com/Angurt-31/Kotlin_AP1_Kt_01)** — первый модуль на Kotlin (основы языка и практика).
+  `Kotlin` `Algorithms` `Unit-tests`
+- **[Kotlin_AP1_Kt_02](https://github.com/Angurt-31/Kotlin_AP1_Kt_02)** — продолжение трека Kotlin AP1.
+  `Kotlin` `OOP`
+- **[CPP1_matrix](https://github.com/Angurt-31/CPP1_matrix)** — работа с матрицами на C++.
+  `C++` `Math` `Algorithms`
+- **[C2_s21_stringplus-2](https://github.com/Angurt-31/C2_s21_stringplus-2)** — реализация строковых функций в духе стандартной библиотеки.
+  `C` `Algorithms` `Memory`
+- **[CPP2_s21_containers](https://github.com/Angurt-31/CPP2_s21_containers)** — собственные контейнеры и изучение STL изнутри.
+  `C++` `Data Structures` `OOP`
+- **[certificates](https://github.com/Angurt-31/certificates)** — сертификаты и подтверждения пройденных курсов/модулей.
+  `Docs`
+
+---
+
+## 🌱 Что изучаю сейчас
+
+- Углубляю **Kotlin** и практику на учебных проектах Школы 21.
+- Развиваю **C/C++**: память, структуры данных, контейнеры.
+- Прокачиваю **Git**, **Linux** и автоматизацию проверок в **CI/CD**.
+
+---
+
+## 📫 Контакты
+
+<!-- Замените ссылки на свои актуальные контакты -->
+
+- 🔗 **Telegram:** [@ваш_username](https://t.me/)
+- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## 🏆 Достижения
+
+<!-- Добавьте ссылки на Stepik, Codewars, LeetCode и т.д., когда будете готовы -->
+
+- Stepik: _ссылка на сертификаты_
+- Codewars: _профиль_
+- LeetCode: _профиль_
+
+---
+
+## 🎓 Образование
+
+**Школа 21** — практико-ориентированное обучение разработке: алгоритмы, низкоуровневые языки, командные проекты и code review.
+
+---
+
+## 💻 Почему программирование?
+
+Мне интересно превращать идеи в работающий код: от аккуратной работы с памятью в **C** до выразительного **Kotlin** и системного **C++**. Учусь писать код, который проходит проверки, читается другими и уверенно живёт в репозитории.
+
+> _«Хороший код — это не только корректность, но и ясность намерений для того, кто откроет файл через месяц.»_
+# Angurt-31
